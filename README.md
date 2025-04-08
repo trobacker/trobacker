@@ -2,11 +2,11 @@
 
 I'm Thomas Robacker, a PhD student in Statistics at UMass (University of Massachusetts - Amherst). 
 
-### :eight_pointed_black_star: About Me in Short Bullet Form :eight_pointed_black_star:
+### A Brief About Me
 
 * :books: PhD student in Statistics (3rd year)
-* :satellite: Conducting research in probabilistic forecasting, Bayesian statistical methods, MCMC algorithms, and time-series.
-* :earth_americas: Research Assistant for the [C19 Variant Nowcast Hub](https://covid19forecasthub.org/doc/) as a part of the UMass lab group [Reich Lab](https://reichlab.io/people). [Github repo](https://github.com/reichlab/variant-nowcast-hub).
+* :satellite: Conducting research in probabilistic forecasting, time-series, and Bayesian statistical methods.
+* :earth_americas: Research Assistant for the [C19 Variant Nowcast Hub](https://covid19forecasthub.org/doc/) as a part of the UMass [Reich Lab](https://reichlab.io/people). [Github repo](https://github.com/reichlab/variant-nowcast-hub).
 * :bar_chart: Loves working with data especially imploying mathematical, statistical, and machine-learning models.
 * 👔 Two-time Data Science Intern at Travelers.
 * :man_teacher: Teaching Background - previously a Mathematics Instructor at Warren Wilson College in Asheville, NC for 7 years.
