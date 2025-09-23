@@ -9,7 +9,7 @@ Some recent activities:
 * Since Fall 2024 - Supported RA hours to administer and contribute to the [SARS-CoV-2 Variant Nowcast Hub](https://covid19forecasthub.org/doc/).
 
 Upcoming activities: 
-* Present a posterentitled The SARS-CoV-2 Variant Nowcast Hub: One Year of Collaborative Modeling and Insights at the 10th annual [EPIDEMICS](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics) conference.
+* Participating in and presenting a poster entitled The SARS-CoV-2 Variant Nowcast Hub: One Year of Collaborative Modeling and Insights at the 10th annual [EPIDEMICS](https://www.elsevier.com/events/conferences/all/international-conference-on-infectious-disease-dynamics) conference.
 
 ### A Brief About Me
 
