@@ -13,7 +13,7 @@ Upcoming activities:
 
 ### A Brief About Me
 
-* :books: PhD student in Statistics (3rd year)
+* :books: PhD student in Statistics (4th year)
 * :satellite: Conducting research in probabilistic forecasting, time-series, and Bayesian statistical methods.
 * :earth_americas: Research Assistant for the [C19 Variant Nowcast Hub](https://covid19forecasthub.org/doc/) as a part of the UMass [Reich Lab](https://reichlab.io/people). [Github repo](https://github.com/reichlab/variant-nowcast-hub).
 * :bar_chart: Loves working with data especially imploying mathematical, statistical, and machine-learning models.
