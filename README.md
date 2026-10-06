@@ -17,7 +17,7 @@ Some recent activities:
 
 * :books: PhD Candidate in Statistics (5th year)
 * :satellite: Conducting research in probabilistic forecasting, time-series, and Bayesian statistical methods.
-* :earth_americas: Research Assistant for the [C19 Variant Nowcast Hub](https://covid19forecasthub.org/doc/) and UMass model development for (FluSight)[https://github.com/cdcepi/FluSight-forecast-hub]as a part of the UMass [Reich Lab](https://reichlab.io/people). [Github repo](https://github.com/reichlab/variant-nowcast-hub).
+* :earth_americas: Research Assistant for the [C19 Variant Nowcast Hub](https://covid19forecasthub.org/doc/) and UMass model development for [FluSight](https://github.com/cdcepi/FluSight-forecast-hub) as a part of the UMass [Reich Lab](https://reichlab.io/people). [Github repo](https://github.com/reichlab/variant-nowcast-hub).
 * :bar_chart: Loves working with data especially imploying mathematical, statistical, and machine-learning models.
 * 👔 Two-time Data Science Intern at Travelers and another summer at The Hartford.
 * :man_teacher: Teaching Background - previously a Mathematics Instructor at Warren Wilson College in Asheville, NC for 7 years.
