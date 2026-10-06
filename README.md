@@ -1,6 +1,6 @@
 ## Hi There! :wave: 
 
-I'm Thomas Robacker, a PhD student in Statistics at UMass (University of Massachusetts - Amherst). 
+I'm Thomas Robacker, a PhD Candidate in Statistics at UMass (University of Massachusetts - Amherst). 
 
 Some recent activities: 
 * Fall 2026: Working on a first author publication related to the scoring procedure for the [Variant Nowcast Hub](https://github.com/reichlab/variant-nowcast-hub), developing models for the incident influenza season in October: in particular, Flusion variants and a new method of parameter estimation for AR models using proper scoring rules and Bayesian computation.
@@ -25,6 +25,6 @@ Some recent activities:
 If you need a resource to learn how to make a profile, here's a good one by @katiehuangx: [How-To-Create-A-Github-Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md#how-to-create-your-profile)
 
 # Some Publications
-* (preprint) Isaac MacArthur, Thomas Robacker, Evan L. Ray, Benjamin W. Rogers, Nicholas G. Reich, Maryclare Griffin, [Comparison of probabilistic nowcasts and forecasts of SARS-CoV-2 variant proportions made by hierarchical multinomial linear regression models](https://arxiv.org/abs/2605.22676)
-* Michele Joyner and Thomas Robacker, “MCR Method for Estimation of Parameters in Continuous Time Markov Chain Models”. International Journal of Pure and Applied Mathematics, Vol. 112, No. 2, pp. 381-416, February 2017.
-* T. Robacker, M.S. Thesis; Comparison of Two Parameter Estimation Techniques for Stochastic Models https://dc.etsu.edu/etd/2567/
+* May, 2026. (preprint) Isaac MacArthur, Thomas Robacker, Evan L. Ray, Benjamin W. Rogers, Nicholas G. Reich, Maryclare Griffin, [Comparison of probabilistic nowcasts and forecasts of SARS-CoV-2 variant proportions made by hierarchical multinomial linear regression models](https://arxiv.org/abs/2605.22676)
+* February 2017. Michele Joyner and Thomas Robacker, “MCR Method for Estimation of Parameters in Continuous Time Markov Chain Models”. International Journal of Pure and Applied Mathematics, Vol. 112, No. 2, pp. 381-416, February 2017.
+* July, 2015. T. Robacker, M.S. Thesis; Comparison of Two Parameter Estimation Techniques for Stochastic Models https://dc.etsu.edu/etd/2567/
