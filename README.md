@@ -23,3 +23,7 @@ Some recent activities:
 * :man_teacher: Teaching Background - previously a Mathematics Instructor at Warren Wilson College in Asheville, NC for 7 years.
 
 If you need a resource to learn how to make a profile, here's a good one by @katiehuangx: [How-To-Create-A-Github-Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md#how-to-create-your-profile)
+
+# Some Publications
+* Michele Joyner and Thomas Robacker, “MCR Method for Estimation of Parameters in Continuous Time Markov Chain Models”. International Journal of Pure and Applied Mathematics, Vol. 112, No. 2, pp. 381-416, February 2017.
+* T. Robacker, M.S. Thesis; Comparison of Two Parameter Estimation Techniques for Stochastic Models https://dc.etsu.edu/etd/2567/
