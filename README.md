@@ -27,6 +27,6 @@ If you need a resource to learn how to make a profile, here's a good one by @kat
 
 ### Publications
 * June, 2026. (Preprint) Isaac MacArthur, Thomas Robacker, et al. [Collaborative estimation and evaluation of SARS-CoV-2 variant nowcasting in the United States](https://arxiv.org/abs/2606.07129). Co-first author with I. MacArthur.
-* May, 2026. (Preprint) Isaac MacArthur, Thomas Robacker, Evan L. Ray, Benjamin W. Rogers, Nicholas G. Reich, Maryclare Griffin, [Comparison of probabilistic nowcasts and forecasts of SARS-CoV-2 variant proportions made by hierarchical multinomial linear regression models](https://arxiv.org/abs/2605.22676)
+* May, 2026. (Preprint) Isaac MacArthur, Thomas Robacker, Evan L. Ray, Benjamin W. Rogers, Nicholas G. Reich, Maryclare Griffin, [Comparison of probabilistic nowcasts and forecasts of SARS-CoV-2 variant proportions made by hierarchical multinomial linear regression models](https://arxiv.org/abs/2605.22676). Co-first author with I. MacArthur.
 * February 2017. Michele Joyner and Thomas Robacker, “MCR Method for Estimation of Parameters in Continuous Time Markov Chain Models”. International Journal of Pure and Applied Mathematics, Vol. 112, No. 2, pp. 381-416, February 2017.
 * July, 2015. T. Robacker, M.S. Thesis; Comparison of Two Parameter Estimation Techniques for Stochastic Models https://dc.etsu.edu/etd/2567/
