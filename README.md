@@ -6,7 +6,9 @@ I'm Thomas Robacker, a PhD Candidate in Statistics at UMass (University of Massa
 
 * Fall 2026: Working on a first author publication related to the scoring procedure for the [Variant Nowcast Hub](https://github.com/reichlab/variant-nowcast-hub), developing models for the incident influenza season in October: in particular, Flusion variants and a new method of parameter estimation for AR models using proper scoring rules and Bayesian computation.
 * Summer 2026: Data Science intern developing a novel loss cost model with the Actuarial Strategic Modeling team at [The Hartford](https://www.thehartford.com/).
-* June 2026: published the [fixedCV](https://cran.r-project.org/web/packages/fixedCV/index.html) R package with my collaborator Rebecca Kurtz-Garcia. 
+* June 2026: published the [fixedCV](https://cran.r-project.org/web/packages/fixedCV/index.html) R package with my collaborator Rebecca Kurtz-Garcia.
+* May, 2026. UMass Amherst School of Public Health and Health Sciences (SPHHS) Research Day poster, The SARS-CoV-2 Variant Nowcast Hub: One Year of Collaborative Modeling and Insights.
+* April 16, 2026. Research talk, Evaluating Predictions of Multi-class Population Proportions: A Variant Nowcasting Case Study, for modeling/forecasting group at London School of Hygiene and Tropical Medicine.
 * July 2025 - served as a TA/Instructor for the [SISMID](https://sismid.sph.emory.edu/about/index.html) (Summer Institute in Statistics and Modeling in Infectious Diseases) [NFIDD](https://github.com/nfidd/sismid) (Nowcasting and Forecasting Infectious Disease Dynamics) course with Sam Abbot and Nick Reich.
 * August 2025 - presented at JSM (Joint Statistical Meetings) on Practical Considerations for Fixed-Smoothing Limiting Distributions.
 * Fall 2025 - R Tutoring Center lead at UMass, Amherst, TA/grader for Advanced Bayesian Statistics.
