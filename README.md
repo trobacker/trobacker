@@ -4,7 +4,7 @@ I'm Thomas Robacker, a PhD Candidate in Statistics at UMass (University of Massa
 
 ### Recent Activities 
 
-* Fall 2026: Working on a first author publication related to the scoring procedure for the [Variant Nowcast Hub](https://github.com/reichlab/variant-nowcast-hub), developing models for the incident influenza season in October: in particular, Flusion variants and a new method of parameter estimation for AR models using proper scoring rules and Bayesian computation.
+* Fall 2026: Working on a first author publication related to the scoring procedure for the [Variant Nowcast Hub](https://github.com/reichlab/variant-nowcast-hub), developing models for the incident influenza season in October: in particular, Flusion variants and a new for this context method of parameter estimation for AR models using proper scoring rules and Bayesian computation.
      * Developed a WISAR6 model: a PyMC AR(6) + Fourier (seasonality) model fit with a WIS-loss Gibbs posterior objective instead of a likelihood (covering both state and US levels).  
 * Summer 2026: Data Science intern developing a novel loss cost model with the Actuarial Strategic Modeling team at [The Hartford](https://www.thehartford.com/).
 * June 2026: published the [fixedCV](https://cran.r-project.org/web/packages/fixedCV/index.html) R package with my collaborator Rebecca Kurtz-Garcia.
