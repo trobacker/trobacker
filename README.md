@@ -30,6 +30,7 @@ I'm Thomas Robacker, a PhD Candidate in Statistics at UMass (University of Massa
 If you need a resource to learn how to make a profile, here's a good one by @katiehuangx: [How-To-Create-A-Github-Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md#how-to-create-your-profile)
 
 ### Publications
+* November, 2026. Davis, Jessica, et al. Submitted for Review to Nature Communications: Multi-season evaluation and analysis of categorical trend forecasts of influenza hospital admissions in the United States.
 * June, 2026. (Preprint) Isaac MacArthur, Thomas Robacker, et al. [Collaborative estimation and evaluation of SARS-CoV-2 variant nowcasting in the United States](https://arxiv.org/abs/2606.07129). Co-first author with I. MacArthur.
 * May, 2026. (Preprint) Isaac MacArthur, Thomas Robacker, Evan L. Ray, Benjamin W. Rogers, Nicholas G. Reich, Maryclare Griffin, [Comparison of probabilistic nowcasts and forecasts of SARS-CoV-2 variant proportions made by hierarchical multinomial linear regression models](https://arxiv.org/abs/2605.22676). Co-first author with I. MacArthur.
 * February 2017. Michele Joyner and Thomas Robacker, “MCR Method for Estimation of Parameters in Continuous Time Markov Chain Models”. International Journal of Pure and Applied Mathematics, Vol. 112, No. 2, pp. 381-416, February 2017.
